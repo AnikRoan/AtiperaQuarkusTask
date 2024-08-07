@@ -6,8 +6,9 @@ This API work with gitHub and return all repositories with branches and last sha
 # example
 GET /api/v1/github/repositories/{username}
     Headers: Accept: application/json
-![Screenshot 2024-08-07 at 19.05.28.png](..%2F..%2FDesktop%2FScreenshot%202024-08-07%20at%2019.05.28.png)
-![Screenshot 2024-08-07 at 19.05.54.png](..%2F..%2FDesktop%2FScreenshot%202024-08-07%20at%2019.05.54.png)
+<img width="1301" alt="Screenshot 2024-08-07 at 19 05 28" src="https://github.com/user-attachments/assets/51cb6b22-7f05-4856-a193-ec464c91572a">
+<img width="1301" alt="Screenshot 2024-08-07 at 19 05 54" src="https://github.com/user-attachments/assets/4ce3222a-70b1-495e-8762-41fe73685a8f">
+
 If you want to learn more about Quarkus, please visit its website: <https://quarkus.io/>.
 
 ## Running the application in dev mode
